@@ -99,13 +99,13 @@ http://localhost:3000
   "students": [
     {
       "studentId": "STU001",
-      "name": "Aarav Sharma",
-      "age": 20,
+      "name": "Mohit Sharma",
+      "age": 21,
       "gender": "Male",
-      "course": "CSE",
+      "course": "Btech CSE",
       "semester": 4,
       "city": "Delhi",
-      "email": "aarav@example.com",
+      "email": "mohitsharma.10kk@gmail.com",
       "marks": {
         "math": 88,
         "dbms": 76,
@@ -128,13 +128,13 @@ http://localhost:3000
 ```json
 {
   "studentId": "STU001",
-  "name": "Aarav Sharma",
-  "age": 20,
+  "name": "Mohit Sharma",
+  "age": 21,
   "gender": "Male",
-  "course": "CSE",
+  "course": "Btech CSE",
   "semester": 4,
   "city": "Delhi",
-  "email": "aarav@example.com",
+  "email": "mohitsharma.10kk@gmail.com",
   "marks": {
     "math": 88,
     "dbms": 76,
@@ -162,13 +162,13 @@ http://localhost:3000
 ```json
 {
   "studentId": "STU016",
-  "name": "Rahul Verma",
+  "name": "Mohit Sharma",
   "age": 21,
   "gender": "Male",
   "course": "BCA",
   "semester": 3,
   "city": "Noida",
-  "email": "rahul.verma@example.com",
+  "email": "mohitsharma.10kk@gmail.com",
   "marks": {
     "math": 85,
     "dbms": 80,
@@ -186,13 +186,13 @@ http://localhost:3000
   "message": "Student created successfully",
   "student": {
     "studentId": "STU016",
-    "name": "Rahul Verma",
+    "name": "Mohit Sharma",
     "age": 21,
     "gender": "Male",
     "course": "BCA",
     "semester": 3,
     "city": "Noida",
-    "email": "rahul.verma@example.com",
+    "email": "mohitsharma.10kk@gmail.com",
     "marks": {
       "math": 85,
       "dbms": 80,
@@ -226,7 +226,7 @@ or
 - **Body**:
 ```json
 {
-  "name": "Rahul V. Sharma",
+  "name": "Mohit Sharma",
   "city": "Delhi",
   "semester": 4
 }
@@ -237,13 +237,13 @@ or
   "message": "Student updated successfully",
   "student": {
     "studentId": "STU016",
-    "name": "Rahul V. Sharma",
+    "name": "Mohit Sharma",
     "age": 21,
     "gender": "Male",
     "course": "BCA",
     "semester": 4,
     "city": "Delhi",
-    "email": "rahul.verma@example.com",
+    "email": "mohitsharma.10kk@gmail.com",
     "marks": {
       "math": 85,
       "dbms": 80,
@@ -273,7 +273,7 @@ or
   "message": "Student deleted successfully",
   "student": {
     "studentId": "STU016",
-    "name": "Rahul V. Sharma",
+    "name": "Mohit Sharma",
     ...
   }
 }

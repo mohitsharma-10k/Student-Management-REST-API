@@ -1,6 +1,6 @@
 const students = [
   {
-    studentId: "STU001", name: "Rahul", age: 20, gender: "Male", course: "BCA", semester: 4, city: "Delhi", email: "rahul@example.com", 
+    studentId: "STU001", name: "Mohit Sharma", age: 21, gender: "Male", course: "Btech CSE", semester: 4, city: "Delhi", email: "mohitsharma.10kk@gmail.com", 
     marks: {
       math: 88,
       dbms: 76,
@@ -15,7 +15,7 @@ const students = [
     isActive: true
   },
   {
-    studentId: "STU002", name: "Priya", age: 19, gender: "Female", course: "BTech", semester: 2, city: "Gurgaon", email: "priya@example.com",
+    studentId: "STU002", name: "Mohit Sharma", age: 21, gender: "Male", course: "Btech CSE", semester: 2, city: "Gurgaon", email: "mohitsharma.10kk@gmail.com",
     marks: {
       math: 95,
       dbms: 89,
@@ -30,7 +30,7 @@ const students = [
     isActive: true
   },
   {
-    studentId: "STU003", name: "Amit", age: 21, gender: "Male", course: "BCA", semester: 4, city: "Noida", email: "amit@example.com",
+    studentId: "STU003", name: "Mohit Sharma", age: 21, gender: "Male", course: "Btech CSE", semester: 4, city: "Noida", email: "mohitsharma.10kk@gmail.com",
     marks: {
       math: 72,
       dbms: 68,
